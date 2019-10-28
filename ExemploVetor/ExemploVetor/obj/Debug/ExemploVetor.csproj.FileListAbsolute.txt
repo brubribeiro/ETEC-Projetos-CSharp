@@ -1,0 +1,10 @@
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.exe.config
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.exe
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\bin\Debug\ExemploVetor.pdb
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.csprojAssemblyReference.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.Form1.resources
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.Properties.Resources.resources
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.csproj.GenerateResource.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.csproj.CoreCompileInputs.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.exe
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploVetor\ExemploVetor\obj\Debug\ExemploVetor.pdb

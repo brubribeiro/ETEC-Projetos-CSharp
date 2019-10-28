@@ -1,0 +1,10 @@
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\bin\Debug\ExemploRandom.exe.config
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\bin\Debug\ExemploRandom.exe
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\bin\Debug\ExemploRandom.pdb
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.csprojAssemblyReference.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.Form1.resources
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.Properties.Resources.resources
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.csproj.GenerateResource.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.csproj.CoreCompileInputs.cache
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.exe
+E:\ETEC\2° modulo\Desenvolvimento_web\ExemploRandom\ExemploRandom\obj\Debug\ExemploRandom.pdb

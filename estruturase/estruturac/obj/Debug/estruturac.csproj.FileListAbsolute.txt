@@ -1,0 +1,6 @@
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\bin\Debug\estruturac.exe.config
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\obj\Debug\estruturac.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\bin\Debug\estruturac.exe
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\bin\Debug\estruturac.pdb
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\obj\Debug\estruturac.exe
+c:\users\etec\documents\visual studio 2013\Projects\estruturac\estruturac\obj\Debug\estruturac.pdb

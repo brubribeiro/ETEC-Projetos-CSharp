@@ -1,0 +1,6 @@
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\bin\Debug\estruturacaso.exe.config
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\bin\Debug\estruturacaso.exe
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\bin\Debug\estruturacaso.pdb
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\obj\Debug\estruturacaso.csprojResolveAssemblyReference.cache
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\obj\Debug\estruturacaso.exe
+c:\users\etec\documents\visual studio 2013\Projects\estruturacaso\estruturacaso\obj\Debug\estruturacaso.pdb
